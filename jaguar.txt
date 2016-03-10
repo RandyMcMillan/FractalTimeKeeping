@@ -1,0 +1,59 @@
+This following job description was found in one of the Books of Chilam
+Balam [1] written sometime after AD 1593 by the priests of the Classic
+and Postclassic Maya civilization. Obviously, the Maya priest corps had
+ambitious expectations for new hires, so that only truly outstanding
+candidates need apply. I offer this as an example to be used in
+recruiting Internet engineering staff and in formulating the
+requirements for policy-based routing. The ennumeration has been added
+for possible future reference.
+
+1.   To impersonate and invoke the deity
+
+2.   To offer food and drink to the idols
+
+3.   To effect the drawing of the pebbles and regulate the calendar
+
+4.   To read weather and other omens in the clouds
+
+5.   To study the night sky and interpret the appearance of the
+     celestial bodies
+
+6.   To determine the lucky and unlucky days for various mundane
+     activities by the casting of lots
+
+7.   To perform the numerous rituals of the cup, plate, etc.
+
+8.   To work miracles
+
+9.   To concoct medicinal herbs into ceremonial drinks
+
+10.  To predict the future
+
+11.  To announce the times for various agricultural and other activities
+
+12.  To insure adequate rainfall
+
+13.  To avert or bring to a timely end famine, drought, epidemics,
+     plagues of ants and locusts, earthquakes
+
+14.  To distribute food to the hungry in time of need
+
+15.  To cut the honey from the hives
+
+16.  Tp determine the compensation to be placed on the crossroad altars
+
+17.  To read from the sacred scriptures the future road of the katun
+     [calendar round]
+
+18.  To design and supervise the carving of stelae [stone monuments],
+     the manufacture of word and clay idols, and the construction of
+     temples
+
+19.  To construct tables of eclipses and heliacal risings of planets
+     [such as are found in the Dresden Codex]
+
+Reference
+
+1.   Makemson, M.W. The Book of the Jaguar Priest, a translation of the
+     Book of Chilam Balam of Tizimin, with commentary. Henry Schuman,
+     New York, 1951, p. 141.
